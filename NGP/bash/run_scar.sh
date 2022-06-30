@@ -1,0 +1,1 @@
+python -u tools/run_net.py --task train --config-file ./projects/ngp/configs/scar.py
