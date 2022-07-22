@@ -2,7 +2,7 @@
 
 ## 简介
 
-本项目为[第二届计图人工智能挑战赛](https://www.educoder.net/competitions/index/Jittor-3)-赛题二：可微渲染新视角生成的 A 榜提交代码。
+本项目为[第二届计图人工智能挑战赛](https://www.educoder.net/competitions/index/Jittor-3)-赛题二：可微渲染新视角生成的开源代码。
 
 队伍名称：sequence
 
